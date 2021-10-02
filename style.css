@@ -1,0 +1,39 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ body{
+     background-color: #93B5C6;
+ }
+ .container{
+     background-color: #C9CCD5;
+     height: 100%;
+     width: 80%;
+     margin: 0px auto;
+     padding: 50px;
+ }
+ .header{
+     text-align: center;
+     font-size: 100px;
+     color:black;
+ }
+ .header2{
+     text-align: center;
+     font-size: 50px;
+ }
+ h1,p{font-family: 'Marmelad', sans-serif;
+ }
+ .social-link img{
+     width: 64px;
+ }
+ .footer3{
+     height: 150px;
+     background-color:rgb(172, 170, 170);
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+ .footer3 h1{
+     border-bottom: 2px solid black;
+     width: 300px;
+ }
